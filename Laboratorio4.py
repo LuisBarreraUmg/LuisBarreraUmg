@@ -127,4 +127,3 @@ if __name__ == "__main__":
     print("Cola original:", cola_ejemplo.items)
     revertir_mitad_cola(cola_ejemplo)
     print("Cola con la mitad revertida:", cola_ejemplo.items)
-
